@@ -1,0 +1,8 @@
+node_modules/
+content/
+out/
+public/clips/
+tools/models/
+__pycache__/
+*.pyc
+.env*

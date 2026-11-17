@@ -1,0 +1,7 @@
+faster-whisper>=1.1
+yt-dlp>=2025.1.1
+opencv-python>=4.10
+numpy>=1.26
+imageio-ffmpeg>=0.5
+# GPU (NVIDIA) opcional para transcribir mucho más rápido:
+#   pip install nvidia-cublas-cu12 "nvidia-cudnn-cu12==9.*"
